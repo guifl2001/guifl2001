@@ -94,12 +94,6 @@
 
   
 
-<br/>  
-
-<details><summary> Spotify Listening </summary><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12185806325&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div></details>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=guifl2001&&style=flat-square" align="center" />
 </div>  

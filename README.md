@@ -7,7 +7,7 @@
 - 💎I graduated from LeWagon Web development course at 2019  
   
 
-- 📝 Currently learning about machine learning and natural language processing  
+- 📝 Currently learning about machine learning, reinforcment learning and computer vision
   
 
 <br/>  
